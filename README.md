@@ -1,1 +1,1 @@
-Hi! My name is Raj Pandit from Nepal. I'm currently a student and i love coding
+Passionate mind sculpting creativity into code, weaving intelligence into every algorithm
